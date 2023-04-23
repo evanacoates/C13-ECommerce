@@ -12,8 +12,7 @@ ProductTag.init(
     primaryKey: true,
     autoIncrement: true,
   },
-    // define columns
-  },
+},
   {
     sequelize,
     timestamps: false,
