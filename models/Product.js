@@ -15,7 +15,7 @@ Product.init(
     primaryKey: true,
     autoIncrement: true
   },
-    // define columns
+  
   },
   {
     sequelize,
